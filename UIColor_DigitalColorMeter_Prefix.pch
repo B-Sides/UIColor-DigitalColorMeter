@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'UIColor+DigitalColorMeter' target in the 'UIColor+DigitalColorMeter' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
